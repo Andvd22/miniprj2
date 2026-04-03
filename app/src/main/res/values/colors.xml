@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="black">#121212</color>
+    <color name="white">#FFFFFF</color>
+    <color name="fruit_primary">#F97316</color>
+    <color name="fruit_primary_dark">#C2410C</color>
+    <color name="fruit_secondary">#22C55E</color>
+    <color name="fruit_secondary_dark">#15803D</color>
+    <color name="fruit_background_start">#FFF6EC</color>
+    <color name="fruit_background_end">#F4FFF7</color>
+    <color name="fruit_surface">#FFFDF9</color>
+    <color name="fruit_surface_alt">#FFF3E6</color>
+    <color name="fruit_card">#FFFFFFFF</color>
+    <color name="fruit_text_primary">#1F2937</color>
+    <color name="fruit_text_secondary">#64748B</color>
+    <color name="fruit_border">#F3D4BF</color>
+    <color name="fruit_success_bg">#DCFCE7</color>
+    <color name="fruit_success_text">#166534</color>
+    <color name="fruit_warning_bg">#FFEDD5</color>
+    <color name="fruit_warning_text">#9A3412</color>
+    <color name="fruit_chip">#FFF1E5</color>
+    <color name="fruit_chip_text">#9A3412</color>
+    <color name="fruit_dark_background">#15211A</color>
+    <color name="fruit_dark_surface">#223329</color>
+    <color name="fruit_dark_card">#1E2A22</color>
+    <color name="fruit_dark_text">#F8FAFC</color>
+    <color name="fruit_dark_subtext">#C7D2D9</color>
 </resources>
